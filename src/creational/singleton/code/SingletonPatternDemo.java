@@ -1,6 +1,6 @@
 package creational.singleton.code;
 
-import creational.singleton.code.object.LazySingleton;
+import creational.singleton.code.singleton.LazySingleton;
 
 public class SingletonPatternDemo {
 

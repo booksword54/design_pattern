@@ -1,4 +1,4 @@
-package creational.singleton.code.object.thread_safe;
+package creational.singleton.code.singleton.thread_safe;
 
 public class DoubleCheckedLockLazySingleton {
 

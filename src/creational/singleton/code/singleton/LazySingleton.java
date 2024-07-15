@@ -1,4 +1,4 @@
-package creational.singleton.code.object;
+package creational.singleton.code.singleton;
 
 public class LazySingleton {
 
