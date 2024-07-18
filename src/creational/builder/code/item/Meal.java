@@ -21,7 +21,7 @@ public class Meal {
         return cost;
     }
 
-    public void listFoodAndItems() {
+    public void listFoodAndDrinks() {
         for (FoodAndDrink foodAndDrink : foodAndDrinks) {
             System.out.print("name : "+foodAndDrink.name());
             System.out.print(", packaging : "+foodAndDrink.packaging().name());

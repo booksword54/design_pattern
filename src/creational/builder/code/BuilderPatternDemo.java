@@ -10,14 +10,14 @@ public class BuilderPatternDemo {
 
         Meal americanMeal = mealBuilder.prepareAmericanMeal();
         System.out.println("American Meal");
-        americanMeal.listFoodAndItems();
+        americanMeal.listFoodAndDrinks();
         System.out.println("Total Cost: " + americanMeal.getCost());
 
         System.out.println();
 
         Meal italianMeal = mealBuilder.prepareItalianMeal();
         System.out.println("Italian Meal");
-        italianMeal.listFoodAndItems();
+        italianMeal.listFoodAndDrinks();
         System.out.println("Total Cost: " + italianMeal.getCost());
     }
 }
