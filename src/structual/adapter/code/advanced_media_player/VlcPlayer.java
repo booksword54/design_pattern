@@ -1,6 +1,6 @@
-package structual.Adapter.code.advanced_media_player;
+package structual.adapter.code.advanced_media_player;
 
-import structual.Adapter.code.advanced_media_player.abstract_advanced_media_player.AdvancedMediaPlayer;
+import structual.adapter.code.advanced_media_player.abstract_advanced_media_player.AdvancedMediaPlayer;
 
 public class VlcPlayer implements AdvancedMediaPlayer {
     @Override

@@ -1,6 +1,6 @@
-package structual.Adapter.code;
+package structual.adapter.code;
 
-import structual.Adapter.code.media_player.AudioPlayer;
+import structual.adapter.code.media_player.AudioPlayer;
 
 public class AdapterPatternDemo {
     public static void main(String[] args) {

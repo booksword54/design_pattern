@@ -1,9 +1,9 @@
-package structual.Adapter.code.adapter;
+package structual.adapter.code.adapter;
 
-import structual.Adapter.code.advanced_media_player.abstract_advanced_media_player.AdvancedMediaPlayer;
-import structual.Adapter.code.media_player.abstract_media_player.MediaPlayer;
-import structual.Adapter.code.advanced_media_player.Mp4Player;
-import structual.Adapter.code.advanced_media_player.VlcPlayer;
+import structual.adapter.code.advanced_media_player.abstract_advanced_media_player.AdvancedMediaPlayer;
+import structual.adapter.code.media_player.abstract_media_player.MediaPlayer;
+import structual.adapter.code.advanced_media_player.Mp4Player;
+import structual.adapter.code.advanced_media_player.VlcPlayer;
 
 public class MediaAdapter implements MediaPlayer {
 

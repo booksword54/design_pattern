@@ -1,7 +1,7 @@
-package structual.Adapter.code.media_player;
+package structual.adapter.code.media_player;
 
-import structual.Adapter.code.adapter.MediaAdapter;
-import structual.Adapter.code.media_player.abstract_media_player.MediaPlayer;
+import structual.adapter.code.adapter.MediaAdapter;
+import structual.adapter.code.media_player.abstract_media_player.MediaPlayer;
 
 public class AudioPlayer implements MediaPlayer {
 
