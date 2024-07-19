@@ -1,6 +1,7 @@
-package behavioral.iterator.code.iterator;
+package behavioral.iterator.code.object;
 
-import behavioral.iterator.code.iterator.abstract_iterator.Iterator;
+import behavioral.iterator.code.iterator.Iterator;
+import behavioral.iterator.code.object.abstract_object.Container;
 
 public class NameContainer implements Container {
 

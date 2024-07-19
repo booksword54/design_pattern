@@ -1,4 +1,4 @@
-package behavioral.iterator.code.iterator.abstract_iterator;
+package behavioral.iterator.code.iterator;
 
 public interface Iterator {
 

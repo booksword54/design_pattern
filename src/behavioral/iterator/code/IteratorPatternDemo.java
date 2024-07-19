@@ -1,7 +1,7 @@
 package behavioral.iterator.code;
 
-import behavioral.iterator.code.iterator.NameContainer;
-import behavioral.iterator.code.iterator.abstract_iterator.Iterator;
+import behavioral.iterator.code.object.NameContainer;
+import behavioral.iterator.code.iterator.Iterator;
 
 public class IteratorPatternDemo {
 
